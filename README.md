@@ -21,8 +21,8 @@ Authentication: JSON Web Token(JWT)
 
 #### Team Name: The Quick Bomberz
 #### Team Members:
+Aditya R Shankar: @ad1tya2 \
 Adithya Kishor: @The-Coder-Kishor \
-Anirudh Sankar: @ad1tya2 \
-Aditya R Shankar: @JBalwaySUS
+Anirudh Sankar: @JBalwaySUS
 
 
