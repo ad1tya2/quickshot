@@ -1,0 +1,1 @@
+gunicorn --bind=0.0.0.0:80 --limit-request-field_size=0 --workers=3 --timeout=600 app:app
